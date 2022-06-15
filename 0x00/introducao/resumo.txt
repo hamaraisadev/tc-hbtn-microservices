@@ -1,0 +1,5 @@
+1- Microserviços é uma arquitetura de software que consiste em dividir a aplicação em pequenos serviços independentes que comunicam entre si através de APIs.
+2- Na arquitetura monolítica temos a nossa aplicação como um empacotamente de todos os componentes em uma só unidade, dificultando a escalabilidade, gerando um alto acoplamento e uma depêndencia de tecnologias.
+Enquanto na arquitetura de microserviços temos os nossos componentes dividos em diferentes serviços, gerando times menores o que facilita a gestão e a entrega, gerando uma alta escalabilidade e um baixo acoplamento.
+3- Flexibilidade de implementação (podemos utlizar as tecnologias mais adequadas para implementar cada serviço de acordo com propósito dele - por exemplo, podemos usar Java para um microserviços específico porque existe uma ótima biblioteca para isso e Phyton em um outro), escalonamento (podemos escalar serviços específicos de acordo com a demanda, por exemplo, escalar o serviço de pagamento apenas) e baixo acoplamento (as alterações realizadas em um serviço não afetam, ou minimamente afetam, outros serviços)
+4- Comunicação via Http, Mensagem e Eventos.
