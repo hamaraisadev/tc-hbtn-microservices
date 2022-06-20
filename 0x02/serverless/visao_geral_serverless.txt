@@ -1,0 +1,8 @@
+- Serverless é um modelo de desenvolvimento nativo em nuvem para criação e execução de aplicações sem o gerenciamento de servidores.
+- Uma função como serviço, ou FaaS, é um tipo de serviço de cloud computing que permite que os desenvolvedores criem, executem e gerenciem pacotes de aplicações
+como funções, sem a necessidade de se preocupar com a manutenção da infraestrutura.
+- A computação serverless aumenta a produtividade dos desenvolvedores e reduz os custos operacionais.
+- Com a computação serverless, é mais fácil adotar práticas de DevOps
+- computação em nuvem é o fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligência,
+pela Internet (“a nuvem”) para oferecer inovações mais rápidas, recursos flexíveis e economias de escala.
+- Custo, Velocidade, Escala Global, Produtividade, Desempenho, Confiabilidade e Segurança
